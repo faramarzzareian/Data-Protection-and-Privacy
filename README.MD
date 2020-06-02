@@ -22,7 +22,7 @@
 start to anonymize the columns we want, Based on what and where data is going to be used.
 for example in some app we need to have name,surname and in other we have to use an id.
 
-+ anonymize the birht date to the age ( it can be age 20-25 or exact 20, again based on purpose we want to use data for).
++ anonymize the birth date to the age ( it can be age 20-25 or exact 20, again based on purpose we want to use data for).
 ![Screenshot_2020-06-01 privacy - Jupyter Notebook(3)](https://user-images.githubusercontent.com/5400662/83519532-74f20580-a4dc-11ea-8bac-b3dd4753814b.png)
 + so I added a new column "Age" and convert the Birth Date to Age , then I Dropped the Birthdate and Save it as a newdataset.
 ![Screenshot_2020-06-01 privacy - Jupyter Notebook(7)](https://user-images.githubusercontent.com/5400662/83519659-ad91df00-a4dc-11ea-9cf9-29927cdf43e3.png)
